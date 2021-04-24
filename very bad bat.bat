@@ -1,0 +1,1 @@
+reboot.exe -r -t 00
